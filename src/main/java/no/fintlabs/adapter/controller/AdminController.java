@@ -1,8 +1,8 @@
-package no.fint.adapter.controller;
+package no.fintlabs.adapter.controller;
 
 import lombok.extern.slf4j.Slf4j;
-import no.fint.adapter.sse.SseInitializer;
 import no.fint.sse.FintSse;
+import no.fintlabs.adapter.sse.SseInitializer;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.MediaType;
 import org.springframework.web.bind.annotation.*;

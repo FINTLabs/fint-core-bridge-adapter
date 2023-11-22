@@ -1,8 +1,7 @@
-package no.fint.adapter.event
+package no.fintlabs.adapter.event
 
-import no.fint.adapter.FintAdapterProps
-import no.fint.adapter.event.EventStatusService
-import no.fint.customcode.SupportedActions
+import no.fintlabs.adapter.FintAdapterProps
+import no.fintlabs.utdanning.SupportedActions
 import no.fint.event.model.DefaultActions
 import no.fint.event.model.Event
 import no.fint.event.model.Status

@@ -1,7 +1,7 @@
-package no.fint.provider.adapter.event
+package no.fintlabs.adapter.event
 
-import no.fint.adapter.FintAdapterProps
-import no.fint.adapter.sse.SseInitializer
+import no.fintlabs.adapter.FintAdapterProps
+import no.fintlabs.adapter.sse.SseInitializer
 import no.fint.sse.FintSse
 import spock.lang.Specification
 

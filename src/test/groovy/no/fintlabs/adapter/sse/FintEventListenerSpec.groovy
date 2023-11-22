@@ -1,9 +1,9 @@
-package no.fint.adapter.sse
+package no.fintlabs.adapter.sse
 
-import no.fint.adapter.sse.FintEventListener
-import no.fint.customcode.service.EventHandlerService
+
 import no.fint.event.model.DefaultActions
 import no.fint.event.model.Event
+import no.fintlabs.utdanning.service.EventHandlerService
 import org.glassfish.jersey.media.sse.InboundEvent
 import spock.lang.Specification
 

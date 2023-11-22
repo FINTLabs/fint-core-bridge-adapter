@@ -1,7 +1,7 @@
-package no.fint.customcode.service
+package no.fintlabs.utdanning.service
 
-import no.fint.adapter.event.EventResponseService
-import no.fint.adapter.event.EventStatusService
+import no.fintlabs.adapter.event.EventResponseService
+import no.fintlabs.adapter.event.EventStatusService
 import no.fint.event.model.DefaultActions
 import no.fint.event.model.Event
 import spock.lang.Specification

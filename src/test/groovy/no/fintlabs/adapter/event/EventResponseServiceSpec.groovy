@@ -1,7 +1,6 @@
-package no.fint.adapter.event
+package no.fintlabs.adapter.event
 
-import no.fint.adapter.FintAdapterProps
-import no.fint.adapter.event.EventResponseService
+import no.fintlabs.adapter.FintAdapterProps
 import no.fint.event.model.Event
 import org.springframework.http.HttpEntity
 import org.springframework.http.HttpMethod

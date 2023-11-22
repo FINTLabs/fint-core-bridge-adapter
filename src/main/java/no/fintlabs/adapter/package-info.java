@@ -11,9 +11,8 @@
  * <p>
  * <b><i>There should be no need to change the code in this package</i></b>
  * <i>If you need to add more logic when verifying if the event can be handled it should be done
- * in the {@link no.fint.adapter.event.EventStatusService#verifyEvent(no.fint.event.model.Event)}
+ * in the {@link no.fintlabs.adapter.event.EventStatusService#verifyEvent(no.fint.event.model.Event)}
  * method.</i>
  * </p>
- *
  */
-package no.fint.adapter;
+package no.fintlabs.adapter;
