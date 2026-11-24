@@ -36,10 +36,10 @@ dependencies {
     implementation 'com.google.guava:guava:32.1.2-jre'
 
     implementation 'no.fint:fint-sse:2.0.1'
-    implementation 'no.fint:fint-event-model:3.0.2'
-    implementation 'no.fint:fint-relation-model:1.1.6'
-    implementation 'no.fint:fint-utdanning-model-java:3.15.0'
-    implementation 'no.fint:fint-utdanning-resource-model-java:3.15.0'
+    implementation 'no.fint:fint-event-model:4.0.0'
+    implementation 'no.fint:fint-relation-model:3.0.0'
+    implementation 'no.fint:fint-utdanning-model-java:3.19.0'
+    implementation 'no.fint:fint-utdanning-resource-model-java:3.19.0'
     implementation 'no.fint:fint-oauth-token-service:1.6.1'
 
     implementation 'org.springframework.boot:spring-boot-starter-web'
